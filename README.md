@@ -1,0 +1,2 @@
+# GetStatString
+Get Random Strings
